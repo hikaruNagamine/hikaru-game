@@ -1,0 +1,18 @@
+{
+  "name": "hikaru-game",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "@commitlint/travis-cli": "^17.0.3",
+    "husky": "^8.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
