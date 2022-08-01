@@ -2,6 +2,5 @@
 coverY: 0
 ---
 
-# Introduction
+# privacy policy
 
-test
