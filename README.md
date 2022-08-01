@@ -3,7 +3,7 @@ description: ここでは、hikaru nagamineが開発公開しているゲーム�
 coverY: 0
 ---
 
-# Introduction
+# privacy policy
 
 - Things in the making  
 オリジナルの自作キーボードを作成中です！

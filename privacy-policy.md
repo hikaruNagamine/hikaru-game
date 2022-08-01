@@ -2,5 +2,4 @@
 coverY: 0
 ---
 
-# privacy policy
-
+# privacy-policy
