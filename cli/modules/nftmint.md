@@ -21,8 +21,8 @@ description: >-
 | [update-base-token-uri](nftmint.md#tx-nftmint-update-base-token-uri)     | update the base token uri of class specified by class id and automatically change the belonging nft uris |
 | [update-token-supply-cap](nftmint.md#tx-nftmint-update-token-supply-cap) | update the token supply cap of class specified by class id |
 
-
-### ununifid query nftmint class-attributes <a id="query-nftmint-class-attributes"></a>
+### common
+#### ununifid query nftmint class-attributes <a id="query-nftmint-class-attributes"></a>
 
 Query the class attributes by class-id.
 
@@ -136,7 +136,9 @@ ununifid query nftmint params [flags]
 | --trace          |        |          |                         | print out full stack trace on errors |
 
 
-### ununifid tx nftmint burn-nft <a id="tx-nftmint-burn-nft"></a>
+### tx
+
+#### ununifid tx nftmint burn-nft <a id="tx-nftmint-burn-nft"></a>
 
 burn specified NFT.
 
