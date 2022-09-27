@@ -27,7 +27,7 @@ This default configuration assumes that the machine executing `ununifid` is runn
 The RPC address can be specified to connect to any full-node with an exposed RPC port by adding the --node flag when executing ununifid
 
 {% hint style="info" %}
-`https://a.lcd.ununifi.cauchye.net:443` is available.
+```https://a.lcd.ununifi.cauchye.net:443``` is available.
 {% endhint %}
 
 ### Global Flags <a href="#global-flags" id="global-flags"></a>
