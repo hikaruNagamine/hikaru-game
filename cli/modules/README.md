@@ -6,6 +6,7 @@ description: CLI reference for ununifid modules
 
 {% content-ref url="nftmint.md" %}
 [nftmint.md](nftmint.md)
+nftmint is cli command.
 {% endcontent-ref %}
 
 {% content-ref url="nftmarket.md" %}
