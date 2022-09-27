@@ -30,6 +30,11 @@ The RPC address can be specified to connect to any full-node with an exposed RPC
 *https://a.lcd.ununifi.cauchye.net:443* is available.
 {% endhint %}
 
+:::note info
+インフォメーション
+infoは省略可能です。
+:::
+
 ### Global Flags <a href="#global-flags" id="global-flags"></a>
 
 All commands have the following global flags:
